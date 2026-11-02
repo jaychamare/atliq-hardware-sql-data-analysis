@@ -101,7 +101,7 @@ opportunities.
 product portfolio. Identifying the highest- and lowest-cost products can
 support further pricing, margin, and cost-control analysis.
 
-![Q5 - Manufacturing cost](results/q5_manufacturing_cost.png)
+![Q5 - Manufacturing cost](results/q5_product_cost_lowest_highest.png)
 
 ### 3. Quarterly Sales Quantity - FY2020
 
@@ -120,7 +120,7 @@ Management could investigate the factors behind the Q3 decline and
 consider quarterly demand patterns when planning inventory and sales
 activities.
 
-![Q8 - Quarterly sales quantity](results/q8_quarterly_sales.png)
+![Q8 - Quarterly sales quantity](results/q8_quarter_max_sold.png)
 
 ### 4. Gross Sales by Channel - FY2021
 
@@ -139,7 +139,7 @@ This indicates that the Retailer channel was the dominant sales channel
 in the recorded results. The company could maintain retailer
 relationships while exploring opportunities to grow the other channels.
 
-![Q9 - Gross sales by channel](results/q9_sales_by_channel.png)
+![Q9 - Gross sales by channel](results/q9_channel_sales_percentage.png)
 
 ### 5. Top-Selling Products by Division - FY2021
 
@@ -161,7 +161,7 @@ output, not a complete top-three list for every division. The query uses
 `DENSE_RANK()`, which can return more than three rows per division when
 products share a rank.
 
-![Q10 - Top products by division](results/q10_top_products.png)
+![Q10 - Top products by division](results/q10_division_sold_rank.png)
 
 ## Project Files
 
